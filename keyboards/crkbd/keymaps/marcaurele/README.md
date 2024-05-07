@@ -24,4 +24,4 @@ pipenv run qmk c2json -kb crkbd/rev1 -km marcaurele
 
 ## Keyboard config
 
-<https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3>
+<https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3> using the DSA Galaxy Class.
